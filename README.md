@@ -54,8 +54,8 @@ else:
 ```
 
 ## POLICY ITERATION FUNCTION
-# Name:  Archana k
-# Register Number: 212222240011
+### Name:  Archana k
+### Register Number: 212222240011
 
 ### Policy Iteration
 ```
@@ -87,15 +87,17 @@ print_state_value_function(optimal_V, P, n_cols=7, prec=5)
 
 ## OUTPUT:
 # Policy, Value function and success rate for the Adversarial Policy
-
+![image](https://github.com/user-attachments/assets/906a44cc-3024-4b8d-b57c-74dd4859f39f)
 ![image](https://github.com/user-attachments/assets/097408ce-629d-42b7-80d8-24d28e9b7d4d)
 
 # Policy, Value function and success rate for the Improved Policy
 
 ![image](https://github.com/user-attachments/assets/906a44cc-3024-4b8d-b57c-74dd4859f39f)
+![image](https://github.com/user-attachments/assets/0d9d7145-51d0-495f-941e-d71e146e4b37)
+
 
  # Policy, Value function and success rate after policy iteration
- 
+ ![image](https://github.com/user-attachments/assets/906a44cc-3024-4b8d-b57c-74dd4859f39f)
 ![image](https://github.com/user-attachments/assets/2b6d6d6a-e1bf-402b-a711-a9f25e506d6a)
 
 
